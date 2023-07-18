@@ -6,9 +6,9 @@ In partial fulfillment for the requirement of the award of **Training in Data Sc
 Guided by: Mr. Ashish Saini (Diginique TechLabs)
 
 # Contents Info
-The jupyter notebook contains an assessment of commonly used regression algortihms,their training accuracies and some erreo metrics.
+- The jupyter notebook contains an assessment of commonly used regression algortihms,their training accuracies and some erreo metrics.
 
-Here we have used a data set for used car re selling price downloaded from [here.](https://www.kaggle.com/datasets/avikasliwal/used-cars-price-prediction?select=train-data.csv')
+- The cover fike is the data-set for used car re-selling price downloaded from [here.](https://www.kaggle.com/datasets/avikasliwal/used-cars-price-prediction?select=train-data.csv')
 
 Further information about the data-set and alogrithms used are mentioned in the notebook.
 
