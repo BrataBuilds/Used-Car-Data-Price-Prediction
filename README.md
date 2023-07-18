@@ -16,7 +16,7 @@ Further information about the data-set and alogrithms used are mentioned in the 
 
 It is recommended to use a virtual environment when using packages from `scikit learn`.
 
-Please refer to the `scikit` and` python documentation` for more information.
+Please refer to the `scikit` and `python` documentation for more information.
 
 List of site-packages used :
 - `pandas 2.0.3` : for data pre-processing.
