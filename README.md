@@ -20,4 +20,4 @@ Further information about the data-set and alogrithms used are mentioned in the 
 ### Please note :
 >It is recommended to use a virtual environment when using packages from `scikit learn`.
 
-Please refer to the `scikit` and `python` documentation for more information.
+Please refer to the [`scikit`](https://scikit-learn.org/stable/install.html) and [`python`](https://docs.python.org/3/library/venv.html) documentation for more information.
