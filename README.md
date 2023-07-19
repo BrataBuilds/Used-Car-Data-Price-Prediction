@@ -8,17 +8,16 @@ Guided by: Mr. Ashish Saini (Diginique TechLabs)
 # Contents Info
 - The jupyter notebook contains an assessment of commonly used regression algortihms,their training accuracies and some erreo metrics.
 
-- The cover fike is the data-set for used car re-selling price downloaded from [here.](https://www.kaggle.com/datasets/avikasliwal/used-cars-price-prediction?select=train-data.csv')
+- The csv file is the data-set for used car re-selling price was downloaded from [here.](https://www.kaggle.com/datasets/avikasliwal/used-cars-price-prediction?select=train-data.csv')
 
 Further information about the data-set and alogrithms used are mentioned in the notebook.
 
-# Please note
+# List of external librairies used :
+- `pandas 2.0.3` : for data pre-processing.
+- `sci-kit learn 1.3.0` : for data training models, error metrics ,and more.
+- `matplotlib  3.7.2` : for visualisation of certain metrics via graph.
 
-It is recommended to use a virtual environment when using packages from `scikit learn`.
+### Please note :
+>It is recommended to use a virtual environment when using packages from `scikit learn`.
 
 Please refer to the `scikit` and `python` documentation for more information.
-
-List of site-packages used :
-- `pandas 2.0.3` : for data pre-processing.
-- `sci-kit learn 1.3.0` : for data training models, error metrics and label encoding.
-- `matplotlib  3.7.2` : for data visualisation via graph.
