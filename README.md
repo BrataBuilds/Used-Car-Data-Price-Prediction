@@ -1,7 +1,5 @@
 # Project Info
-This project was made by : **Souryabrata Goswami.**
-
-In partial fulfillment for the requirement of the award of **Training in Data Science,Machine Learning and AI using Python** for the *Project Based Summer Internship at iHUB DivyaSampark at IIT Roorkee and Diginique TechLabs*.
+This project was made in partial fulfillment for the requirement of the award of **Training in Data Science,Machine Learning and AI using Python** for the *Project Based Summer Internship at iHUB DivyaSampark at IIT Roorkee and Diginique TechLabs*.
 
 Guided by: Mr. Ashish Saini (Diginique TechLabs)
 
