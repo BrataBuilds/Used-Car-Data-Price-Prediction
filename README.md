@@ -4,7 +4,7 @@ This project was made in partial fulfillment for the requirement of the award of
 Guided by: Mr. Ashish Saini (Diginique TechLabs)
 
 # Contents Info
-- The jupyter notebook contains an assessment of commonly used regression algortihms,their training accuracies and some erreo metrics.
+- The jupyter notebook contains an assessment of commonly used regression algortihms and some attributes such as their training accuracies and different methods of error evaluation  .
 
 - The csv file is the data-set for used car re-selling price was downloaded from [here.](https://www.kaggle.com/datasets/avikasliwal/used-cars-price-prediction?select=train-data.csv')
 
